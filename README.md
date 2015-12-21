@@ -1,4 +1,4 @@
-# Nueral Animation Project
+# Neural Animation Project
 
 My partner, Sofia Coseip, and I are involved in a project that will allow us to learn more about HTML5 and animation.
 
